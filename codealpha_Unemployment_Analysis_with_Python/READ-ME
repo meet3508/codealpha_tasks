@@ -1,0 +1,33 @@
+# Unemployment Analysis with Python 📊
+
+## Project Description
+This project analyzes unemployment trends in India using Python. It focuses on understanding changes over time, the impact of Covid-19, and differences between regions and urban-rural areas.
+
+## Dataset
+- Monthly unemployment data
+- Attributes include Region, Date, Unemployment Rate, Employed Population, Labour Participation Rate, and Area
+
+## Technologies Used
+- Python
+- Pandas
+- Matplotlib
+
+## Workflow
+1. Load and clean the dataset
+2. Convert date fields and handle missing values
+3. Perform exploratory data analysis
+4. Visualize unemployment trends
+5. Analyze Covid-19 impact and regional differences
+
+## Key Insights
+- Sharp rise in unemployment during Covid-19 (2020)
+- Urban areas were more affected than rural areas
+- Regional variations in unemployment rates
+
+## How to Run
+1. Place the dataset file in the project directory
+2. Run the analysis script or notebook
+3. Review charts and insights
+
+## Author
+Meet Naik
