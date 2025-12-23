@@ -1,0 +1,34 @@
+# Iris Flower Classification 🌸
+
+## Project Description
+This project implements a machine learning model to classify Iris flower species using sepal and petal measurements. A K-Nearest Neighbors (KNN) classifier is trained and evaluated to demonstrate basic classification concepts.
+
+## Dataset
+- Iris Dataset
+- Features: Sepal Length, Sepal Width, Petal Length, Petal Width
+- Target: Species (Setosa, Versicolor, Virginica)
+
+## Technologies Used
+- Python
+- Pandas, NumPy
+- Scikit-learn
+- Matplotlib
+
+## Workflow
+1. Load and preprocess the dataset
+2. Encode target labels
+3. Split data into training and testing sets
+4. Train KNN classifier
+5. Evaluate model accuracy
+6. Predict species for new samples
+
+## Results
+The model achieves high accuracy and correctly predicts Iris flower species.
+
+## How to Run
+1. Place `Iris.csv` in the project folder
+2. Run the Python script or notebook
+3. View predictions and visualizations
+
+## Author
+Meet Naik
